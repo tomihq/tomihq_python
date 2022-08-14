@@ -1,5 +1,11 @@
 from re import T
 
+#Variables can't be declared with a white space.
+#The below code will throw an error syntax
+
+""" person name = 'Tomas' """ 
+
+#########
 
 print("Hello") 
 print("World")
@@ -68,18 +74,12 @@ print(len(name));
 #Input on console
 print("¿Cual es tu nombre?")
 name = input()
-print("Así que tu nombre es " + name)
+print("Así que tu nombre es " + name) 
 
 #Funciones
 def helloWorld(name):
     return print('Hola ' +name);
 
 helloWorld('Tomas');
-
-
-
-
-
-
 
 

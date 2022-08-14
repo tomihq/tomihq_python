@@ -7,7 +7,6 @@ start_time = time.time();
 column = ["A", "B", "C", "D"];
 rowValues = [1, 2, 3, 4];
 
-
 #Setting the colums name
 
 for col in column:
@@ -23,7 +22,7 @@ for idx, col in enumerate(column):
 
 #See how much time take to loop the matrix
 print((time.time()-start_time))
-
+image.png
 #With the timer, we can know how much time take the matrix to loops,
 #this help us to optimize our code.
 
