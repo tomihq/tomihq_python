@@ -1,4 +1,4 @@
-# tomihq_python
+# Python Basics
 Python guide for beginners - Meta 
 
 1. Install Python from Microsoft Store if you are using Windows.
