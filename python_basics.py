@@ -4,7 +4,7 @@ from re import T
 print("Hello") 
 print("World")
 
-
+#Addition 1 + 2 + 3.
 x = 1 + 2 \
 + 3 
 
@@ -66,10 +66,10 @@ print(name + ' and ' + name2);
 print(len(name));
 
 #Input on console
-""" print("¿Cual es tu nombre?")
+print("¿Cual es tu nombre?")
 name = input()
 print("Así que tu nombre es " + name)
- """
+
 #Funciones
 def helloWorld(name):
     return print('Hola ' +name);
