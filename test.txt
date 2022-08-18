@@ -1,0 +1,3 @@
+Hello there!
+
+This is my first time handling files in Python
