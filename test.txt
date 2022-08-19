@@ -1,3 +1,4 @@
-Hello there!
-
-This is my first time handling files in Python
+This is a new line of the file 
+This is the second line 
+This is the third line
+This is a new line of the file without deleting the old text
